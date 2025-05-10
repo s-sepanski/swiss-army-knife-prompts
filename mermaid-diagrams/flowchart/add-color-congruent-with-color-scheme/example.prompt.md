@@ -1,0 +1,3 @@
+modify the colors in `- <span style="color:#F5DEB3;">&#9632;</span> Cut For Time - While once considered, this possibility has been eliminated. Fill: #F5DEB3 (Wheat). Stroke: #B8860B (Dark Goldenrod).`. I want the color scheme to represent a deactivated state and have a gray background which implies that the node is disabled
+
+the new colors should look visually appealing when considering the existing color scheme

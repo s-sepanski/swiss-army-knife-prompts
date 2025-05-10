@@ -1,0 +1,1 @@
+modify the node with text 'todo 1' to be of type 'Dead Path'

@@ -1,0 +1,1 @@
+modify the node with text {node_text} to be of type {desired_node_color_on_key}
